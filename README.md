@@ -1,3 +1,4 @@
 # SSH Raspberry Pi Cheatsheet
 
-`sadsad`
+Shutdown to halt: `sudo shutdown -h now`
+Reboot: `sudo shutdown -r now`
