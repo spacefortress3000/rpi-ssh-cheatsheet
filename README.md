@@ -5,6 +5,7 @@
 + Ping RPi: `ping hostname.local` or `ping 192.168.1.1`
 + Shutdown to halt: `sudo shutdown -h now`
 + Reboot: `sudo shutdown -r now`
++ Configurations: `sudo raspi-config`
 
 ### Git
 + Get the newest versions of repositories `git pull`
